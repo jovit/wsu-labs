@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joao.goncalves/Desktop/labs/fitbit/fitbitdata.h
+sleep.h
+/Users/joao.goncalves/Desktop/labs/fitbit/sleep.h
+
+/Users/joao.goncalves/Desktop/labs/fitbit/main.c
+stdio.h
+-
+assert.h
+-
+string.h
+-
+fitbitdata.h
+/Users/joao.goncalves/Desktop/labs/fitbit/fitbitdata.h
+
+/Users/joao.goncalves/Desktop/labs/fitbit/sleep.h
+

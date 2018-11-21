@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joao.goncalves/Desktop/labs/students control/Data.h
+string
+-
+Stack.h
+/Users/joao.goncalves/Desktop/labs/students control/Stack.h
+
+/Users/joao.goncalves/Desktop/labs/students control/List.h
+Node.h
+/Users/joao.goncalves/Desktop/labs/students control/Node.h
+
+/Users/joao.goncalves/Desktop/labs/students control/Menu.cpp
+iostream
+-
+fstream
+-
+string
+-
+Menu.h
+/Users/joao.goncalves/Desktop/labs/students control/Menu.h
+
+/Users/joao.goncalves/Desktop/labs/students control/Menu.h
+List.h
+/Users/joao.goncalves/Desktop/labs/students control/List.h
+Data.h
+/Users/joao.goncalves/Desktop/labs/students control/Data.h
+
+/Users/joao.goncalves/Desktop/labs/students control/Node.h
+clocale
+-
+
+/Users/joao.goncalves/Desktop/labs/students control/Stack.h
+string
+-
+vector
+-
+

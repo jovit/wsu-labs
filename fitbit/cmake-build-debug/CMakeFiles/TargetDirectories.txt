@@ -1,0 +1,3 @@
+/Users/joao.goncalves/Desktop/labs/fitbit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/joao.goncalves/Desktop/labs/fitbit/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joao.goncalves/Desktop/labs/fitbit/cmake-build-debug/CMakeFiles/fitbit.dir

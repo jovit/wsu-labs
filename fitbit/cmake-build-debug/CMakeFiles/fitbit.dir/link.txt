@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/fitbit.dir/main.c.o CMakeFiles/fitbit.dir/fitbitdata.c.o CMakeFiles/fitbit.dir/sleep.c.o  -o fitbit 

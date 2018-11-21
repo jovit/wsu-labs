@@ -1,0 +1,3 @@
+/Users/joao.goncalves/Desktop/labs/students control/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/joao.goncalves/Desktop/labs/students control/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joao.goncalves/Desktop/labs/students control/cmake-build-debug/CMakeFiles/students_control.dir
