@@ -70,8 +70,10 @@ void Menu::import_course_list() {
 
 void Menu::mark_absences() {
     Node<Data> *current;
+    std::string input;
 
     for (current = this->master.get_head(); current != NULL; current = current->get_next()) {
-        std::cout << current->get_data().get_name() << "\n";
+        std::cout << "Was " << current->get_data().get_name() << " absent?(yes/no)\n";
+        getline(std::cin, input);
     }
 }
