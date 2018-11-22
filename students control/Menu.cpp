@@ -31,6 +31,7 @@ bool Menu::read_option() {
         case 3:
             break;
         case 4:
+            this->mark_absences();
             break;
         case 5:
             break;
@@ -68,5 +69,9 @@ void Menu::import_course_list() {
 }
 
 void Menu::mark_absences() {
+    Node<Data> *current;
 
+    for (current = this->master.get_head(); current != NULL; current = current->get_next()) {
+        std::cout << current->get_data().get_name() << "\n";
+    }
 }

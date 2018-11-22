@@ -9,6 +9,8 @@ class Data {
 public:
     explicit Data(std::string line);
 
+    std::string get_name() { return this->name; }
+
 private:
     int record_number;
     int id;

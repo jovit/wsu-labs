@@ -60,54 +60,54 @@ include CMakeFiles/students_control.dir/flags.make
 CMakeFiles/students_control.dir/main.cpp.o: CMakeFiles/students_control.dir/flags.make
 CMakeFiles/students_control.dir/main.cpp.o: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/joao.goncalves/Desktop/labs/students control/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/students_control.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/students_control.dir/main.cpp.o -c "/Users/joao.goncalves/Desktop/labs/students control/main.cpp"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/students_control.dir/main.cpp.o -c "/Users/joao.goncalves/Desktop/labs/students control/main.cpp"
 
 CMakeFiles/students_control.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/students_control.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/joao.goncalves/Desktop/labs/students control/main.cpp" > CMakeFiles/students_control.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/joao.goncalves/Desktop/labs/students control/main.cpp" > CMakeFiles/students_control.dir/main.cpp.i
 
 CMakeFiles/students_control.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/students_control.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/joao.goncalves/Desktop/labs/students control/main.cpp" -o CMakeFiles/students_control.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/joao.goncalves/Desktop/labs/students control/main.cpp" -o CMakeFiles/students_control.dir/main.cpp.s
 
 CMakeFiles/students_control.dir/Menu.cpp.o: CMakeFiles/students_control.dir/flags.make
 CMakeFiles/students_control.dir/Menu.cpp.o: ../Menu.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/joao.goncalves/Desktop/labs/students control/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/students_control.dir/Menu.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/students_control.dir/Menu.cpp.o -c "/Users/joao.goncalves/Desktop/labs/students control/Menu.cpp"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/students_control.dir/Menu.cpp.o -c "/Users/joao.goncalves/Desktop/labs/students control/Menu.cpp"
 
 CMakeFiles/students_control.dir/Menu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/students_control.dir/Menu.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/joao.goncalves/Desktop/labs/students control/Menu.cpp" > CMakeFiles/students_control.dir/Menu.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/joao.goncalves/Desktop/labs/students control/Menu.cpp" > CMakeFiles/students_control.dir/Menu.cpp.i
 
 CMakeFiles/students_control.dir/Menu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/students_control.dir/Menu.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/joao.goncalves/Desktop/labs/students control/Menu.cpp" -o CMakeFiles/students_control.dir/Menu.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/joao.goncalves/Desktop/labs/students control/Menu.cpp" -o CMakeFiles/students_control.dir/Menu.cpp.s
 
 CMakeFiles/students_control.dir/Data.cpp.o: CMakeFiles/students_control.dir/flags.make
 CMakeFiles/students_control.dir/Data.cpp.o: ../Data.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/joao.goncalves/Desktop/labs/students control/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/students_control.dir/Data.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/students_control.dir/Data.cpp.o -c "/Users/joao.goncalves/Desktop/labs/students control/Data.cpp"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/students_control.dir/Data.cpp.o -c "/Users/joao.goncalves/Desktop/labs/students control/Data.cpp"
 
 CMakeFiles/students_control.dir/Data.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/students_control.dir/Data.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/joao.goncalves/Desktop/labs/students control/Data.cpp" > CMakeFiles/students_control.dir/Data.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/joao.goncalves/Desktop/labs/students control/Data.cpp" > CMakeFiles/students_control.dir/Data.cpp.i
 
 CMakeFiles/students_control.dir/Data.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/students_control.dir/Data.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/joao.goncalves/Desktop/labs/students control/Data.cpp" -o CMakeFiles/students_control.dir/Data.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/joao.goncalves/Desktop/labs/students control/Data.cpp" -o CMakeFiles/students_control.dir/Data.cpp.s
 
 CMakeFiles/students_control.dir/Stack.cpp.o: CMakeFiles/students_control.dir/flags.make
 CMakeFiles/students_control.dir/Stack.cpp.o: ../Stack.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/joao.goncalves/Desktop/labs/students control/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/students_control.dir/Stack.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/students_control.dir/Stack.cpp.o -c "/Users/joao.goncalves/Desktop/labs/students control/Stack.cpp"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/students_control.dir/Stack.cpp.o -c "/Users/joao.goncalves/Desktop/labs/students control/Stack.cpp"
 
 CMakeFiles/students_control.dir/Stack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/students_control.dir/Stack.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/joao.goncalves/Desktop/labs/students control/Stack.cpp" > CMakeFiles/students_control.dir/Stack.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/joao.goncalves/Desktop/labs/students control/Stack.cpp" > CMakeFiles/students_control.dir/Stack.cpp.i
 
 CMakeFiles/students_control.dir/Stack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/students_control.dir/Stack.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/joao.goncalves/Desktop/labs/students control/Stack.cpp" -o CMakeFiles/students_control.dir/Stack.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/joao.goncalves/Desktop/labs/students control/Stack.cpp" -o CMakeFiles/students_control.dir/Stack.cpp.s
 
 # Object files for target students_control
 students_control_OBJECTS = \

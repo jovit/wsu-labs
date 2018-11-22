@@ -12,8 +12,12 @@ public:
 
     void insert(T value) {
         auto *new_node = new Node<T>(value);
-        new_node->set_next(new_node);
+        new_node->set_next(this->head);
         this->head = new_node;
+    }
+
+    Node<T> *get_head() {
+        return this->head;
     }
 
 
