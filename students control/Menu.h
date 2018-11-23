@@ -11,6 +11,9 @@ private:
     void show_menu();
     void import_course_list();
     void mark_absences();
+    void store_master();
+    void load_master();
+    void generate_reports();
 };
 
 

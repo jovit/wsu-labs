@@ -9,7 +9,9 @@ Data::Data(std::string line) {
     std::string s;
     int current_field = 0;
 
-    while (getline(ss, s, ',')) {
+    this->number_of_absences = 0;
+    // parse the csv into the data fields
+    while (getline(ss, s, ',')) { // split in the commas
         switch (current_field) {
             case 0:
                 this->record_number = stoi(s);
@@ -40,6 +42,19 @@ Data::Data(std::string line) {
         }
         current_field++;
     }
-    this->name.erase(0, 1);
+    this->name.erase(0, 1); // remove the " caracter from the start and end of the name
     this->name.erase(this->name.size() - 1);
+}
+
+void Data::add_absence() {
+    std::chrono::system_clock::time_point p;
+    std::time_t t;
+    std::string current_time;
+    // get the current sys time and convert it to string
+    p = std::chrono::system_clock::now();
+    t = std::chrono::system_clock::to_time_t(p);
+    current_time = std::ctime(&t);
+
+    this->number_of_absences++; // increment the numeber of absences
+    this->stack.push(current_time); // and add the current time to the stack
 }

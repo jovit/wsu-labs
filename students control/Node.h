@@ -14,7 +14,7 @@ public:
     void set_next(Node *next) { this->next = next; }
     Node *get_next() { return this->next; }
     void set_data(T data) { this->data = data; }
-    T get_data() {return this->data; }
+    T *get_data() {return &this->data; }
 };
 
 
